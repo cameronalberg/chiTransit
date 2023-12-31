@@ -1,6 +1,5 @@
 # chiTransit
-<img src="https://github.com/cameronalberg/chiTransit/assets/28129732/07a6c04b-6a1b-4c2d-858e-befe441419eb" width="200" />
-![Artboard 1](https://github.com/cameronalberg/chiTransit/assets/28129732/ec1594b3-f587-43d7-8023-4f33328d163f)
+<img src="https://github.com/cameronalberg/chiTransit/assets/28129732/ec1594b3-f587-43d7-8023-4f33328d163f" width="200" />
 
 # App Loading Screen
 
