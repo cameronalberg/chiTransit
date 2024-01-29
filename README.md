@@ -5,6 +5,7 @@
 
   <h1 align="center">chiTransit</h3>
   <p> iOS transit tracker for the Chicago CTA. Utilizes Live Activities and the Dynamic Island, integrated with both the CTA Bus and Train APIs.</p>
+  <p>currently in beta release on TestFlight</p>
 
 </div>
 <br />
