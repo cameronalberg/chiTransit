@@ -23,12 +23,11 @@
 <br />
 <br />
 <div align="center">
+    [demo](https://github.com/cameronalberg/chiTransit/assets/28129732/9e915f41-0758-4f6d-b601-3346a8728f55)
+</div>
+<div align="center">
   <img src="https://github.com/cameronalberg/chiTransit/assets/28129732/9a17aa46-0d6f-4b61-9d90-094977290cb4" width="150" />
 </div>
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
-
-
-[demo](https://github.com/cameronalberg/chiTransit/assets/28129732/9e915f41-0758-4f6d-b601-3346a8728f55)
 
